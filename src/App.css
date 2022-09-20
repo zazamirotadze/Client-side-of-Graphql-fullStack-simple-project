@@ -1,0 +1,44 @@
+li{
+  display: flex;
+}
+
+h2{
+  padding: 1em;
+  margin-left: auto;
+  width: 100%;
+}
+h1{
+
+  text-align: center;
+}
+
+.conteiner{
+  display: flex;
+}
+
+.conteiner-1{
+  margin-top: 3em;
+  
+}
+
+p{
+  color: red;
+}
+
+.findVillage{
+  margin-top: 3em;
+  
+}
+
+.conteiner-1-1{
+  display: flex;
+  gap: 1em;
+}
+
+.delete-field{
+  margin-top: 3em;
+}
+
+.conteiner-2{
+  margin-top: 3.6em;
+}
